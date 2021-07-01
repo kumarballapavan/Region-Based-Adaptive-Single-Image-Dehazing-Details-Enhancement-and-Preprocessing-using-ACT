@@ -6,7 +6,7 @@ The detail of the method is described in the paper:
 The paper is not published yet, it can be cited after publication
 
 ### Requirements
-- MATLAB (tested on 2018 or above)
+- MATLAB (tested on 2018 or above). It may work for old versions also.
 
 ### Demo
 
