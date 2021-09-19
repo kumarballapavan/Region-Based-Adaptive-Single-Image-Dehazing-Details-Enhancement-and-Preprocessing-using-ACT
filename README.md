@@ -1,7 +1,7 @@
 # Region based Adaptive single image dehazing
 
 This is the repository for the paper 'Region based Adaptive single image dehazing, details enhancement and pre-processing using auto-color transfer method'.
-The detail of the method is described in the paper:
+The details of the method is described in the paper:
 
 The paper is not published yet, it can be cited after publication
 
