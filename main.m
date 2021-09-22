@@ -262,7 +262,7 @@ figure(2); imshow([Oimg img_map]);
 %figure(2);imshow([img img2]);title('RGBImage versus Non-Dark');
 %img1(img1f>T)=mean(img1f(img1f<T));
 %figure(7);imshow([img1 img2 img3]);title('Image parts overview img1 img2 img3');
-img=imgg;
+%img=imgg;
 
 [dehazed_img1, comp_time1, trans_map1] = fcn_multi(img,1);
 [dehazed_img2, comp_time2, trans_map2] = fcn_multi(img,2);
