@@ -227,7 +227,7 @@ figure(2); imshow([Oimg img_map]);
 %figure(2);imshow(img3);title('Brightest overview-1');
 %img2=img-(img1+img3);
 %img1(img>T)=mean(img(img<T));
-
+img=imgg;
 
 %figure(2);imshow([img1 img1f]);title('Img1 vs Img1f');
 %img1=img1f;
