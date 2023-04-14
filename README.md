@@ -1,9 +1,9 @@
 # Region based Adaptive single image dehazing
 
-This is the repository for the paper 'Region based Adaptive single image dehazing, details enhancement and pre-processing using auto-color transfer method'.
-The details of the method is described in the paper:
+This is the repository for the paper Kumar, Balla Pavan, Arvind Kumar, and Rajoo Pandey. "Region-based adaptive single image dehazing, detail enhancement and pre-processing using auto-colour transfer method." Signal Processing: Image Communication 100 (2022): 116532.
 
-The paper is not published yet, it can be cited after publication
+The details of the method is described in the paper.
+
 
 ### Requirements
 - MATLAB (tested on 2018 or above). It may work for old versions also.
